@@ -12,8 +12,8 @@ Repozytorium `pythonMuzyka` zawiera następujące pliki i foldery:
      * `sound_rectangle` - funkcja tworząca falę prostokątną,
   * `notes.txt` - plik tekstowy ze słownikiem nutek,
   * `sample_song` - folder z piosenką stworzoną z sampli,
-  * `piosenka2` - folder z piosenką 2,
-  * `piosenka3` - folder z piosenką 3.
+  * `db_gt_main_opening` - folder z piosenką z głównym motywem openingu anime Dragonball GT,
+  * `last_christmas` - folder z piosenką "Last Christmas".
 
 Ponadto każdy z folderów z piosenkami składa się z:
   * `defs.txt` - plik tekstowy ze słownikiem opisującym konfigurację utworu - zawiera tylko argument `bpm`,
