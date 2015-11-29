@@ -13,7 +13,8 @@ Repozytorium `pythonMuzyka` zawiera następujące pliki i foldery:
   * `notes.txt` - plik tekstowy ze słownikiem nutek,
   * `sample_song` - folder z piosenką stworzoną z sampli,
   * `db_gt_main_opening` - folder z piosenką z głównym motywem openingu anime Dragonball GT,
-  * `last_christmas` - folder z piosenką "Last Christmas".
+  * `last_christmas` - folder z piosenką "Last Christmas",
+  * `songs` - folder z wygenerowanymi piosenkami.
 
 Ponadto każdy z folderów z piosenkami składa się z:
   * `defs.txt` - plik tekstowy ze słownikiem opisującym konfigurację utworu - zawiera tylko argument `bpm`,
