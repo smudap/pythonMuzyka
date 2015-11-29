@@ -1,0 +1,5 @@
+global instrument
+f = notes[x[3:6]]
+t = 16.0 * (60 / bpm)
+instrument = sound_sin(2*f,t,0.01,0.1) + np.power(sound_sin(f,t,0.01,0.1), 2)
+instrument = np.repeat(instrument,2).reshape(len(instrument),2)
